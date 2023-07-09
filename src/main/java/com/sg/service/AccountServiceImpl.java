@@ -6,6 +6,7 @@ import java.math.BigDecimal;
 
 
 /**
+ * the account service.
  *
  * @author ATEF
  */

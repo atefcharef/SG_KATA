@@ -2,6 +2,7 @@ package com.sg.entity;
 
 /**
  * ENUM list operation by account
+ * [withdraw, deposit]
  *
  * @author ATEF
  */
